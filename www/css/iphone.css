@@ -1,0 +1,87 @@
+
+body {
+    background-color:#ffffff;
+    background-image:url(../images/background.png);
+    background-repeat:repeat;
+    background-size: 200px 200px;
+    margin:25px 25px;
+
+    font-family:"Verdana";
+    font-size:36px;
+    color:#261600;
+}
+
+h2 {
+    font-family:"Verdana";
+    font-size:52px;
+    color:#261600;
+}
+
+p {
+    font-family:"Verdana";
+    font-size:36px;
+    color:#261600;
+}
+
+p#countdown {
+    font-family:"Verdana";
+    font-size:36px;
+    font-weight:normal;
+    color:#261600;
+}	
+
+p#small {
+    font-family:"Verdana";
+    font-size:36px;
+    color:#261600;
+}
+
+div#noop {
+	position:absolute;
+	height:100%;
+    width:100%;
+    z-index:0;    
+}
+
+div#noop_content {
+	position:absolute;
+	top:360px;
+	left:190px;
+	width:80%;
+}
+
+div#noop_content_button1 {
+	position:absolute;
+	top:520px;
+	left:50%;
+	width:100%;
+	margin-left:-200px;
+}
+
+div#noop_content_block1 {
+	position:absolute;
+	top:630px;
+	left:190px;
+	width:80%;
+}
+
+div#noop_content_button2 {
+	position:absolute;
+	top:790px;
+	left:50%;
+	width:100%;
+	margin-left:-200px;
+}
+
+div#noop_content_block2 {
+	position:absolute;
+	top:890px;
+	left:190px;
+	width:80%;
+}
+
+div#footer {
+	position:float;
+	bottom:25%;
+	width:90%;
+}

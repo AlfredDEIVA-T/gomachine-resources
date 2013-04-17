@@ -1,0 +1,120 @@
+body {
+    background-color:#ffffff;
+    background-image:url('../images/background.jpg');
+    background-repeat:repeat;
+    background-size: 200px 200px;
+    margin:25px 25px;
+
+    font-family:"Verdana";
+    font-size:36px;
+    color:#261600;
+}
+
+.left { float: left; margin: 0 .5em .5em 0; }
+.right { float: right; margin: 0 0 .5em .5em; }
+
+h2 {
+    font-family:"Verdana";
+    font-size:20px;
+    color:#261600;
+}
+
+td {
+	font-family:"Verdana";
+    font-size:14px;
+    font-weight:normal;
+    color:#261600;
+}
+
+p {
+    font-family:"Verdana";
+    font-size:14px;
+    font-weight:normal;
+    color:#261600;
+    width:490px;
+}
+
+p#countdown {
+    font-family:"Verdana";
+    font-size:14px;
+    font-weight:normal;
+    color:#261600;
+}	
+
+p#small {
+    font-family:"Verdana";
+    font-size:10px;
+    font-weight:normal;
+    width:490px;
+    color:#261600;
+}
+
+p#copyright {
+	width:100%;
+	font-family:"Verdana";
+    font-size:10px;
+    font-weight:normal;
+    color:#261600;
+    width:490px;
+    text-align:center;
+}
+
+div#footer {
+	position:relative;
+	top:30px;
+	width:90%;
+}
+
+.contact_input {
+	left:180px;
+}
+
+fieldset input {
+	width: 310px; 
+	margin-bottom: 2px;
+	margin-top: 2px;
+	font-size: 12px;
+}
+
+fieldset select {
+	width: 310px; 
+	margin-bottom: 2px;
+	margin-top: 2px;
+}
+
+fieldset label {
+	font-size: 14px;
+	width: 150px; 
+	float:left;
+}
+
+input[type=submit]#center {
+	position:relative;
+	left:30%;
+}
+
+input[type=submit] {
+	position:relative;
+	left:300px;
+	width: 160px;
+	margin-bottom: 2px;
+	margin-top: 10px;
+}
+
+
+em { 
+	font-weight: bold; 
+	padding-right: 1em; 
+	vertical-align: top; 
+}
+
+.errorlist { 
+	position:relative;
+    font-size:14px;
+    font-weight:bold;
+    color:#261600;
+	padding-left: .5em; 
+	vertical-align: top; 
+	left:150px;
+}
+
