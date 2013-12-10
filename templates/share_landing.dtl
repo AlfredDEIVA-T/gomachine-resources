@@ -31,7 +31,7 @@
         	<div id="logo_content">
               	<h1 id="main_title">
                 	<a href="/" title="Return to the homepage">
-                  		Go-Maticª
+                  		Go-Maticï¿½
                 	</a>
               </h1>
               <div id="image_leftbar">
@@ -51,24 +51,8 @@
         	
         </div>
       </div>
+
       <footer>
-        <div id="social_links" class="content">
-          <ul>
-            <li class="tw"><a href="http://www.twitter.com/the_go_factory">Twitter</a></li>
-            <li class="fb"><a href="http://www.facebook.com/gomatic">Facebook</a></li>
-            <li class="em"><a href="mailto:info@go-factory.net">Email</a></li>
-<!--             <li class="rs"><a href="#">RSS</a></li> -->
-          </ul>
-          <!-- AddThis Button BEGIN -->
-          <div class="addthis_toolbox addthis_default_style ">
-            <a class="addthis-btn addthis_button_google_plusone"></a>
-            <a class="addthis-btn addthis_button_tweet"></a>
-            <a class="addthis-btn addthis_button_facebook_like" fb:like:layout="button_count"></a>
-          </div>
-          <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
-          <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50675888232770f5"></script>
-          <!-- AddThis Button END -->
-        </div>
         <div id="footer_end">
           <div class="content">
           
